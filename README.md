@@ -14,7 +14,7 @@ https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-
 
 ## Source Information:
 The **Google Colab notebook** can be viewed by clicking this link:
-https://colab.research.google.com/drive/1oqxMUQnl-Sz0i4D8bCYLgJWCM45c1XMR#scrollTo=kC0ywiIuGjge
+https://colab.research.google.com/drive/1oqxMUQnl-Sz0i4D8bCYLgJWCM45c1XMR#scrollTo=4n79qXUmCxKu
 
 To view an **HTML version** of the Colab notebook, click on `Natural_Language_Processing.html` in this repository, then press **Download raw file**.
 

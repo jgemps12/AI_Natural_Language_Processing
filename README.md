@@ -22,3 +22,9 @@ Detailed information on this project's data, results, and analysis is provided i
 
 The algorithms used on this project were influenced by use of ChatGPT, as permitted by my
 instructor. You can access the **ChatGPT conversation** here: https://chatgpt.com/share/698fb49a-f094-8000-ae18-9e76ef5cb1f6 
+
+## Academic Integrity Notice:
+This repository contains coursework completed as part of my Bachelor's degree. It is publicly shared for educational and portfolio-related use only.
+
+If you are a student, DO NOT use this repository in any way that violates your institution's academic integrity policies. These violations include copying, reusing, or submitting any code (and other resources) as your own work.
+
